@@ -37,7 +37,7 @@ The project includes advanced optimization techniques to enhance the accuracy of
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/depth-image-estimation-project.git
+   git clone https://github.com/taoducminh/depth-image-estimation-project.git
    ```
 2. Navigate to the project directory:
    ```bash
